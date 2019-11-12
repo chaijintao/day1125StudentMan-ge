@@ -1,2 +1,3 @@
 # day1125StudentMan-ge
-buxuan
+buxu
+print("123")
